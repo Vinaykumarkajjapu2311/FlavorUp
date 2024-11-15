@@ -34,23 +34,23 @@ https://drive.google.com/file/d/1mbA51QiuoJA4nJ_dTjI8R2YgISejCkgh/view?usp=shari
 
 # <a name="section-5"></a> Setup / Installation: 💻
 
-## Step1: Clone the repository
+### Step1: Clone the repository
   
-## Step2: Install the dependencies :
+### Step2: Install the dependencies :
   Open the Cloned Project in the code editor then Open the terminal and type "**npm install**" in the current directory.
   Next move to backend directory by typing "**cd backend**" and then type "**npm install**" 
   
-## Step3: Run the backend server:
+### Step3: Run the backend server:
   Open Terminal move to backend directory and start the server by entering the command "**npm start**"
   
-## Step4: Running the vite Server:
+### Step4: Running the vite Server:
   Open the termiinal navigate to FoodOrderApp directory and enter the command "**npm run dev**"
   
   It will give you a "**localhost:5173**" url, clock on it or open u r browser and search "**localhost:5173**"
   
-### BOOM! You have Successfullly Installed the project and ran the application
+#### BOOM! You have Successfullly Installed the project and ran the application
 
-# <a name="section-1"></a> Status :
+# <a name="section-6"></a> Status :
 The project is almost done but need to add to few features which include email sending to customer saying "Your Order is successfully recieved or not". 
   
   
