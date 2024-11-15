@@ -1,0 +1,142 @@
+[
+  {
+    "id": "m1",
+    "name": "Mac & Cheese",
+    "price": "150",
+    "description": "Creamy cheddar cheese blends flawlessly with tender macaroni, finished with a crispy breadcrumb topping for the perfect crunch. A timeless comfort classic that warms the soul with every bite.",
+    "image": "images/mac-and-cheese.jpg"
+  },
+  {
+    "id": "m2",
+    "name": "Margherita Pizza",
+    "price": "250",
+    "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+    "image": "images/margherita-pizza.jpg"
+  },
+  {
+    "id": "m3",
+    "name": "Caesar Salad",
+    "price": "285",
+    "description": "Crisp romaine lettuce in Caesar dressing, finished with crunchy croutons and Parmesan shavings.",
+    "image": "images/caesar-salad.jpg"
+  },
+  {
+    "id": "m4",
+    "name": "Spaghetti Carbonara",
+    "price": "175",
+    "description": "Al dente spaghetti coated in a creamy sauce of egg yolk, pecorino, pancetta, and pepper. Rich and indulgent!",
+    "image": "images/spaghetti-carbonara.jpg"
+  },
+  {
+    "id": "m5",
+    "name": "Veggie Burger",
+    "price": "290",
+    "description": "A juicy veggie patty on a whole-grain bun, layered with fresh lettuce, tomato, and a tangy sauce.",
+    "image": "images/veggie-burger.jpg"
+  },
+  {
+    "id": "m6",
+    "name": "Grilled Chicken Sandwich",
+    "price": "330",
+    "description": "Tender grilled chicken breast with creamy avocado, crispy bacon, fresh lettuce, and honey mustard on a toasted bun.",
+    "image": "images/grilled-chicken-sandwich.jpg"
+  },
+  {
+    "id": "m7",
+    "name": "Steak Frites",
+    "price": "600",
+    "description": "A perfectly cooked steak, prepared to your liking, accompanied by crispy golden fries and a dollop of rich herb butter.",
+    "image": "images/steak-frites.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "Sushi Roll Platter",
+    "price": "175",
+    "description": "A variety of fresh sushi rolls, featuring California, Spicy Tuna, and Eel Avocado.",
+    "image": "images/sushi-roll-platter.jpg"
+  },
+  {
+    "id": "m9",
+    "name": "Chicken Curry",
+    "price": "400",
+    "description": "Succulent chicken pieces cooked in a flavorful and fragrant curry sauce, paired with fluffy basmati rice.",
+    "image": "images/chicken-curry.jpg"
+  },
+  {
+    "id": "m10",
+    "name": "Vegan Buddha Bowl",
+    "price": "120",
+    "description": "A wholesome bowl of quinoa, roasted vegetables, creamy avocado, and drizzled with tahini dressing.",
+    "image": "images/vegan-buddha-bowl.jpg"
+  },
+  {
+    "id": "m11",
+    "name": "Seafood Paella",
+    "price": "645",
+    "description": "A traditional Spanish dish featuring saffron-infused rice, shrimp, mussels, and chorizo.",
+    "image": "images/seafood-paella.jpg"
+  },
+  {
+    "id": "m12",
+    "name": "Pancake Stack",
+    "price": "100",
+    "description": "Soft, fluffy pancakes stacked high, drizzled with maple syrup and crowned with fresh berries.",
+    "image": "images/pancake-stack.jpg"
+  },
+  {
+    "id": "m13",
+    "name": "Miso Ramen",
+    "price": "240",
+    "description": "A comforting bowl of ramen in savory miso broth, topped with tender pork, a soft-boiled egg, and fresh green onions.",
+    "image": "images/miso-ramen.jpg"
+  },
+  {
+    "id": "m14",
+    "name": "Beef Tacos",
+    "price": "65",
+    "description": "Three soft tortillas stuffed with seasoned beef, fresh salsa, cheese, and a dollop of sour cream.",
+    "image": "images/beef-tacos.jpg"
+  },
+  {
+    "id": "m15",
+    "name": "Chocolate Brownie",
+    "price": "49",
+    "description": "A rich and fudgy brownie, topped with a scoop of vanilla ice cream and chocolate sauce.",
+    "image": "images/chocolate-brownie.jpg"
+  },
+  {
+    "id": "m16",
+    "name": "Lobster Bisque",
+    "price": "125",
+    "description": "A creamy soup made from lobster stock, aromatic vegetables, and a touch of brandy.",
+    "image": "images/lobster-bisque.jpg"
+  },
+  {
+    "id": "m17",
+    "name": "Mushroom Risotto",
+    "price": "150",
+    "description": "Creamy Arborio rice cooked with a medley of wild mushrooms and finished with parmesan.",
+    "image": "images/mushroom-risotto.jpg"
+  },
+  {
+    "id": "m18",
+    "name": "Eggplant Parmesan",
+    "price": "250",
+    "description": "Layers of breaded eggplant, marinara sauce, and melted mozzarella and parmesan cheeses.",
+    "image": "images/eggplant-parmesan.jpg"
+  },
+  {
+    "id": "m19",
+    "name": "Lemon Cheesecake",
+    "price": "60",
+    "description": "A creamy cheesecake with a tangy lemon flavor, served on a crumbly biscuit base.",
+    "image": "images/lemon-cheesecake.jpg"
+  },
+  {
+    "id": "m20",
+    "name": "Falafel Wrap",
+    "price": "30",
+    "description": "Crispy falafels tucked into a warm pita, accompanied by lettuce, tomatoes, and a drizzle of tahini sauce.",
+    "image": "images/falafel-wrap.jpg"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "items": [
+      {
+        "id": "m2",
+        "name": "Margherita Pizza",
+        "price": "250",
+        "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+        "image": "images/margherita-pizza.jpg",
+        "quantity": 3
+      },
+      {
+        "id": "m5",
+        "name": "Veggie Burger",
+        "price": "290",
+        "description": "A juicy veggie patty on a whole-grain bun, layered with fresh lettuce, tomato, and a tangy sauce.",
+        "image": "images/veggie-burger.jpg",
+        "quantity": 2
+      }
+    ],
+    "customer": {
+      "name": "vinay",
+      "email": "vinaykumarkajjapu2311@gmail.com",
+      "street": "H.No: 10-7-729, BoiGally",
+      "postal-code": "503001",
+      "city": "Nizamabad"
+    },
+    "id": "438.0843733308115"
+  }
+]
